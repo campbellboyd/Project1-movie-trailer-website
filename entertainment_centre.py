@@ -6,7 +6,7 @@ Created on 7 Feb 2015
 import media
 import fresh_tomatoes 
 
-# data
+# data - creating instances of class Movie from media.py
 toy_story3 = media.Movie("Toy Story 3",
                          "2010",
                          "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",

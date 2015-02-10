@@ -7,7 +7,6 @@ import webbrowser
 
 class Movie():
 
-
 # defines data items and their source
     def __init__(self, movie_title, opened, storyline, director, writer, stars, poster_image, trailer_youtube):
         self.title = movie_title
