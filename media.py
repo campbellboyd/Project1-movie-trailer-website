@@ -18,6 +18,6 @@ class Movie():
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
         
-#define method to run trailer when clicked
+#define method to run trailer when clicked in page displayed by module fresh_tomatoes
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)

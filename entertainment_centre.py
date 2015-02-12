@@ -80,6 +80,6 @@ goodfellas = media.Movie("Goodfellas",
                           "https://upload.wikimedia.org/wikipedia/en/7/7b/Goodfellas.jpg",
                           "https://www.youtube.com/watch?v=YH-7he92XfI")
 
-# load data in list
+# load data in list for idplaying in module fresh_tomatoes
 movies = [toy_story3, forrest_gump, avatar, goodfellas, a2001_a_space_odyssey, full_metal_jacket, apocalypse_now, the_deer_hunter, platoon]
 fresh_tomatoes.open_movies_page(movies)
