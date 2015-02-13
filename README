@@ -4,7 +4,9 @@ MOVIE TRAILER WEBSITE
 	
 	Place files in folder of your choice.
 	
-	To run, enter without the quotes at the command prompt: "python entertainment_centre.py" 
+	To run, enter, without the quotes, at the command prompt: "python entertainment_centre.py" 
 	
 	This will open the entertainment centre in your default browser.
+	
+	Note that the links contained in the film data work in the UK but may not work due to location specific restrictions..
 	
